@@ -1,0 +1,12 @@
+job : 
+      - title
+      -location
+      -job type 
+      -job description 
+      - puplished at 
+      - vacancy 
+      - salary 
+      - category
+      
+      -apply job
+      -post job 
